@@ -9,3 +9,5 @@ Repository ini berisi informasi seluruh wilayah Indonesia. Adapun data yang dibe
 - Longitude
 - Latitude
 - Kode wilayah untuk rajaongkir
+
+Total jumlah untuk data ini adalah 82.818 baris.
